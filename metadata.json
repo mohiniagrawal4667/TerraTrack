@@ -1,0 +1,6 @@
+{
+  "name": "TerraTrack",
+  "description": "A high-performance, accessible skeleton structure for the TerraTrack application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
